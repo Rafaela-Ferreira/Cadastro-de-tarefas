@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+.tarefa{
+  margin-left: 20px; margin-right:20px;
+}
+#nomeTarefa-error{
+  display: none;
+}
+#DataConclusão-error{
+  display: none;
+}
+#butcad{
+ margin-left: 20px; margin-right:20px;
+}
